@@ -1,3 +1,5 @@
+# Hello there! 👋
+
 <div align="center">
 
 My name is **Bradley Nguyen** and I work with **software and hardware**.
