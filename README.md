@@ -14,6 +14,16 @@
 
 <br/>
 
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bradleynguyen" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bradley Nguyen" height="30" width="40"/>
+  </a>
+</p>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
