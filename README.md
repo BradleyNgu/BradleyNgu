@@ -9,13 +9,21 @@
 🥈 **2nd Place** for *Best Use of Starknet* @ **uOttaHack 7**  
 🏅 **MLH Challenge Winner** @ **cuHacking 6**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/cuHacking.JPG" width="300px"/>
-  <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px"/>
-  <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack.jpg" width="300px"/>
-</p>
+### 📸 Hackathon Moments
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/cuHacking.JPG" width="300px"/><br/><br/>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack.jpg" width="300px"/>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px"/>
+    </td>
+  </tr>
+</table>
+<div style="clear: both;"></div>
+<br/><br/>
 
 ### 🌐 Socials
 
