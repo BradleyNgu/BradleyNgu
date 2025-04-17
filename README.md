@@ -1,7 +1,7 @@
 <div align="Left">
 
 # Hello there! <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/bluelightsaber.png" width="30px">
-✨ My name is **Bradley Nguyen**, and I work with **software and hardware**. ✨
+「 My name is **Bradley Nguyen**, and I work with **software and hardware**. 」
 
 ### 🏆 Hackathon Achievements
 
