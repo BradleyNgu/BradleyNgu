@@ -69,7 +69,7 @@
 ### 📊 GitHub Stats
 
 <details>
-  <summary><b> (click to expand)</summary>
+  <summary><b></b> (click to expand)</summary>
 
   <br/>
 
@@ -79,17 +79,13 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Bradleyngu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Bradleyngu&theme=dark&hide_border=false" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="left">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bradleyngu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       </td>
     </tr>
   </table>
 
 </details>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Bradleyngu&icon=0&color=0)](https://visitcount.itsvg.in)
