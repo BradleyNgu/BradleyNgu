@@ -1,9 +1,7 @@
 <div align="center">
 
-# Hello there! <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/bluelightsaber.png" width="30px">
-
+## Hello there! <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/bluelightsaber.png" width="30px">
 ✨ My name is **Bradley Nguyen** and I work with **software and hardware**. ✨
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bradleynguyen2004@gmail.com) 
@@ -23,7 +21,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bradleyngu&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
