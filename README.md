@@ -21,13 +21,16 @@
     <td>
       <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px"/>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width ="300px"/>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width="650px"/>
     </td>
   </tr>
 </table>
-<div style="clear: both;"></div>
+
 <br/><br/>
+
 
 ### 🌐 Socials
 
