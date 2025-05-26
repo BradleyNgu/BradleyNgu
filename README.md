@@ -1,7 +1,8 @@
 <div align="Left">
 
-# Hello there! <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/bluelightsaber.png" width="30px">
-「 My name is **Bradley Nguyen**, and I work with **software and hardware**. 」
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=73F7EF&width=435&lines=Hello%2C+my+name+is+Bradley+Nguyen!;I+like+to+do+hackathons!;I+like+to+problem+solve!;I'll+name+you+any+roller+coaster;I+love+hardware+and+software!" alt="Typing SVG" />
+</a>
 
 ### 🏆 Hackathon Achievements
 
@@ -20,6 +21,9 @@
     <td>
       <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px"/>
     </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width ="300px"/>
+    </td>
   </tr>
 </table>
 <div style="clear: both;"></div>
@@ -34,8 +38,6 @@
 
 ### 💻 Tech Stack
 
-<details>
-  <summary><b>(click to expand)</summary>
 
   <br/>
 
@@ -76,14 +78,13 @@
   ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white)
 
-</details>
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<details>
-  <summary><b></b> (click to expand)</summary>
+
 
   <br/>
 
@@ -97,8 +98,6 @@
       </td>
     </tr>
   </table>
-
-</details>
 
 
 
