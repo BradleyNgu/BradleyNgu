@@ -28,6 +28,9 @@
       <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width="650px"/>
     </td>
   </tr>
+    <td td colspan="3" align="center">
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/SolutionHacks.jpg" width="300px"/>
+    </td>
 </table>
 
 <br/><br/>
