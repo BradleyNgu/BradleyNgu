@@ -6,34 +6,18 @@
 
 ### 🏆 Hackathon Achievements
 
-- **1st Place** for *uOttawa x Carleton Collaboration* @ **Hack the Hill II**  
-- **2nd Place** for *Best Use of Starknet* @ **uOttaHack 7**  
-- **MLH Challenge Winner** @ **cuHacking 6**
-- **Challenge Winner** @ **SolutionHacks**
-
-### 📸 Hackathon Moments
-
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/cuHacking.JPG" width="300px"/><br/><br/>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack.jpg" width="300px"/>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width="650px"/>
-    </td>
-  </tr>
-    <td td colspan="3" align="center">
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/SolutionHacks.jpg" width="300px"/>
-    </td>
-</table>
-
-<br/><br/>
+<body>
+  <h1>Hackathon Highlights</h1>
+  <div class="gallery">
+    <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/cuHacking.JPG" alt="cuHacking">
+    <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack.jpg" alt="uOttaHack">
+    <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" alt="The Gang">
+    <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" class="wide-img" alt="HTH2 Room">
+    <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/SolutionHacks.jpg" alt="SolutionHacks">
+    <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/hack-the-hill.jfif" alt="Hack The Hill">
+  </div>
+</body>
+</html>
 
 
 ### 🌐 Socials
