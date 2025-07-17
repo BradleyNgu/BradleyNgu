@@ -6,6 +6,11 @@
 
 ### 🏆 Hackathon Achievements
 
+- **1st Place** for *uOttawa x Carleton Collaboration* @ **Hack the Hill II**  
+- **2nd Place** for *Best Use of Starknet* @ **uOttaHack 7**  
+- **MLH Challenge Winner** @ **cuHacking 6**
+- **Challenge Winner** @ **SolutionHacks**
+
 <body>
   <h1>Hackathon Highlights</h1>
   <div class="gallery">
