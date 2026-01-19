@@ -5,7 +5,7 @@
 </a>
 
 ### 🏆 Hackathon Achievements
-- **1st Place** for *1st for Thales: Northern Shield, Maritime Strategy Simulator Challenge* @ **uOttahack 8** 
+- **1st Place** for *Thales: Northern Shield, Maritime Strategy Simulator Challenge* @ **uOttahack 8** 
 - **1st Place** for *uOttawa x Carleton Collaboration* @ **Hack the Hill II**  
 - **2nd Place** for *Best Use of Starknet* @ **uOttaHack 7**  
 - **MLH Challenge Winner** @ **cuHacking 6**
