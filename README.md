@@ -99,10 +99,13 @@
   <table align="left">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Bradleyngu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyNgu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bradleyngu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=BradleyNgu&theme=vue-dark&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradleyNgu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
       </td>
     </tr>
   </table>
