@@ -11,7 +11,7 @@ Hey, I'm Bradley Nguyen and welcome to my GitHub. Here, you can view my resposit
 - **1st Place** for *uOttawa x Carleton Collaboration* @ **Hack the Hill II**  
 - **2nd Place** for *Best Use of Starknet* @ **uOttaHack 7**  
 - **MLH Challenge Winner** @ **cuHacking 6**
-- **Challenge Winner** @ **SolutionHacks**
+- **Silliest Most Convoluted Hack** @ **SolutionHacks**
 
 <table>
   <tr>
