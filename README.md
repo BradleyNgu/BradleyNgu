@@ -1,5 +1,7 @@
 <div align="Left">
 
+Hey, I'm Bradley Nguyen and welcome to my GitHub. Here, you can view my respositories which consists of hackathon and personal projects.
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=73F7EF&width=435&lines=Hello%2C+my+name+is+Bradley+Nguyen!;I+like+to+do+hackathons!;I+like+to+problem+solve!;I'll+name+you+any+roller+coaster;I+love+hardware+and+software!" alt="Typing SVG" />
 </a>
