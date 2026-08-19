@@ -15,37 +15,6 @@ Currently working at **Tangerine** as a Project Delivery Intern
 - **MLH Challenge Winner** @ **cuHacking 6**
 - **Silliest Most Convoluted Hack** @ **SolutionHacks**
 
-<table>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/cuHacking.JPG" width="300px" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack.jpg" width="300px" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/SolutionHacks.jpg" width="300px" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width="620px" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack_8%20(214).jpg" width="620px" />
-    </td>
-  </tr>
-</table>
-
-
-
 ### Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bradleynguyen2004@gmail.com) 
@@ -54,7 +23,6 @@ Currently working at **Tangerine** as a Project Delivery Intern
 ---
 
 ### Tech Stack
-
 
   <br/>
 
@@ -97,6 +65,34 @@ Currently working at **Tangerine** as a Project Delivery Intern
 
 [![](https://visitcount.itsvg.in/api?id=Bradleyngu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/cuHacking.JPG" width="300px" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack.jpg" width="300px" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/The_gang.jpg" width="300px" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/SolutionHacks.jpg" width="300px" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/HTH2.jpg" width="620px" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/uOttaHack_8%20(214).jpg" width="620px" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/michael-kaiser-blue-lock.gif" width="900" alt="Demo GIF"/>
 
