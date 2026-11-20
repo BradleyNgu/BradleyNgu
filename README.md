@@ -15,6 +15,8 @@ Currently working at **Tangerine** incoming **BDO**
 - **MLH Challenge Winner** @ **cuHacking 6**
 - **Silliest Most Convoluted Hack** @ **SolutionHacks**
 
+Now just doing hackathons for fun!
+
 ### Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bradleynguyen2004@gmail.com) 
