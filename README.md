@@ -96,6 +96,4 @@ Now just doing hackathons for fun!
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/BradleyNgu/BradleyNgu/main/michael-kaiser-blue-lock.gif" width="900" alt="Demo GIF"/>
-
 
